@@ -1,0 +1,9 @@
+tiga-bersaudara/
+├── index.html          # Halaman utama
+├── style.css           # Gaya visual blog
+├── assets/             # Folder untuk media
+│   └── images/         # Gambar untuk blog
+├── posts/              # Artikel
+│   ├── post1.html      # Artikel 1
+│   └── post2.html      # Artikel 2
+└── README.md           # Informasi repositori
